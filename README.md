@@ -152,9 +152,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![nslookup output](nslookup.png)
 
-![curl output](curl -I.png)
+![curl output](curl-I.png)
 
-![wafw00f output](wafw00f -1.png)
+![wafw00f output](wafw00f-1.png)
 
 ![dnsrecon output](dnsrecon.png)
 
