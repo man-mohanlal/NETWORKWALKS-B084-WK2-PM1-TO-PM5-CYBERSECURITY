@@ -154,7 +154,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![curl output](curl-I.png)
 
-![wafw00f output](wafw00f-1.png)
+![wafw00f output](wafwoof-1.png)
 
 ![dnsrecon output](dnsrecon.png)
 
