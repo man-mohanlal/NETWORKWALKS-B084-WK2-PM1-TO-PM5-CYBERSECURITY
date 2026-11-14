@@ -148,16 +148,16 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![whois output](whois-1.png)
 
-![whatweb output](screenshots/2_whatweb.png)
+![whatweb output](whatweb.png)
 
-![nslookup output](screenshots/3_nslookup.png)
+![nslookup output](nslookup.png)
 
-![curl output](screenshots/4_curl.png)
+![curl output](curl -I.png)
 
-![wafw00f output](screenshots/5_wafw00f.png)
+![wafw00f output](wafw00f -1.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![dnsrecon output](zenmap.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
+![Zenmap scan and topology](zenmap2.png)
 
 -End-
